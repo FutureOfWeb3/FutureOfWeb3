@@ -1,4 +1,4 @@
-- 🥇 My Field ><> Web3 Software, Web development , dApp  ;
+- 🥇 My Field ><> Web3 Software, Web development , dApp Dev ;
  
 - 🧠 Currently learning <>< Smart Contracts , DOA contracts , Management ;
  
