@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FutureOfWeb3 ! ;
 - 👀 I’m Currently involved in Web3 Software, Web development , Avid learner of all things ;
 - 🌱 I’m currently learning ... Smart Contracts , DOA contracts , Management ;
-- 💞️ I’m looking to collaborate on ... MMA NFTS, Anything UFC related , Texas Hold Em , Animals , Graphic Design , Powerpoint ;
+- 💞️ I’m looking to collaborate on ... dApp, MMA NFTs, NFTs, Anything UFC related , Texas Hold Em , Animals , Las Veegas, Graphic Design , Powerpoint ;
 - 📫 How to reach me ... Krammerbusiness@gmail.com , https://facebook.com/FutureOfWeb3 , https://twitter.com/FutureOfWeb3
 
 <!---
